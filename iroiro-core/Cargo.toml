@@ -1,0 +1,9 @@
+[package]
+name = "iroiro-core"
+version = "0.1.0"
+authors = ["Ezhik <i@ezhik.me>"]
+
+[dependencies]
+libc = "0.2"
+regex = "1"
+natord = "1"
